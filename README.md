@@ -1,8 +1,12 @@
-# 👋 Olá, eu sou David Alex dos Santos
+[![Profile Views](https://komarev.com/ghpvc/?username=Sparedavidalex&color=blue)](https://github.com/Sparedavidalex)
 
-💻 Analista de Infraestrutura e Operações de TI
+# 👨‍💻 David Alex dos Santos
 
-☁️ AWS Certified Cloud Practitioner
+### ☁️ Infrastructure | Cloud | Linux | Monitoring | DevOps
+
+Analista de Infraestrutura com experiência em monitoramento, suporte N1/N2, troubleshooting, cloud e sustentação de ambientes críticos.
+
+🎯 Atualmente focado em Cloud Computing, Linux, DevOps e Automação.
 
 📍 Bauru - SP | Brasil
 
@@ -10,58 +14,27 @@
 
 ## 🚀 Sobre mim
 
-Profissional de TI com experiência em monitoramento, suporte N1/N2, sustentação de ambientes críticos e troubleshooting de infraestrutura.
+💼 Analista NOC/SOC
 
-Atuo com monitoramento utilizando Zabbix e Grafana, gestão de incidentes, redes, servidores Linux e Windows, documentação técnica e suporte a ambientes corporativos.
+☁️ AWS Certified Cloud Practitioner
 
-Atualmente estou aprofundando meus conhecimentos em Cloud Computing, DevOps, Automação, Docker, Kubernetes e Oracle Cloud Infrastructure (OCI).
+📚 Tecnólogo em Redes de Computadores (cursando)
 
----
+📊 Experiência com monitoramento utilizando Zabbix e Grafana
 
-## 🛠️ Tecnologias
+🔧 Atuação em suporte técnico, infraestrutura, redes e cloud
 
-### Cloud
-- AWS
-- Google Cloud Platform (GCP)
-- Oracle Cloud Infrastructure (OCI) - Em estudo
-
-### Sistemas Operacionais
-- Linux
-- Windows Server
-
-### Monitoramento
-- Zabbix
-- Grafana
-- Lumu
-
-### Redes
-- TCP/IP
-- DNS
-- VPN
-- Firewall
-- Roteamento
-
-### DevOps & Automação
-- Docker
-- Kubernetes (Em estudo)
-- Git
-- GitHub
-- CI/CD (Em estudo)
-- Python (Básico)
-
-### ITSM
-- GLPI
-- Zendesk
+🚀 Em evolução para Cloud Engineer / DevOps
 
 ---
 
-## 🏅 Certificações e Badges
+## 🏆 Certificações e Badges
 
 ### AWS
 
 ✅ AWS Certified Cloud Practitioner
 
-### Google Cloud Skill Badges
+### Google Cloud
 
 ✅ Build a Secure Google Cloud Network
 
@@ -74,75 +47,87 @@ https://www.credly.com/users/david-alex.baceab6f
 
 ---
 
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" width="55">
+<img src="https://skillicons.dev/icons?i=gcp" width="55">
+</p>
+
+---
+
+## 🐧 Sistemas Operacionais
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" width="55">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="55">
+<img src="https://skillicons.dev/icons?i=debian" width="55">
+</p>
+
+---
+
+## ⚙️ DevOps e Automação
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker" width="55">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="55">
+<img src="https://skillicons.dev/icons?i=git" width="55">
+<img src="https://skillicons.dev/icons?i=github" width="55">
+<img src="https://skillicons.dev/icons?i=python" width="55">
+</p>
+
+---
+
+## 📡 Monitoramento e Observabilidade
+
+- Zabbix
+- Grafana
+- Lumu
+- Troubleshooting
+- Incident Management
+
+---
+
 ## 📚 Atualmente estudando
 
-- Google Cloud Platform (GCP)
-- Docker
-- Kubernetes
-- Oracle Cloud Infrastructure (OCI)
-- Linux Avançado
-- Python para Automação
-- DevOps
-- CI/CD
-- Terraform
+☁️ Google Cloud Platform (GCP)
+
+☁️ Oracle Cloud Infrastructure (OCI)
+
+🐧 Linux Avançado
+
+🐳 Docker
+
+☸️ Kubernetes
+
+⚙️ CI/CD
+
+🏗️ Terraform
+
+🐍 Python
 
 ---
 
-## 🎯 Objetivo Profissional
+## 📈 Estatísticas
 
-Busco evoluir minha carreira nas áreas de:
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparedavidalex&show_icons=true&theme=tokyonight)
 
-☁️ Cloud Computing
-
-⚙️ DevOps
-
-🐧 Linux
-
-📡 Infraestrutura
-
-📊 Observabilidade
-
-🔒 Segurança da Informação
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparedavidalex&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Estatísticas GitHub
+## 🌐 Contato
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparedavidalex&show_icons=true)
+💼 LinkedIn
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparedavidalex&layout=compact)
-
----
-
-## 📫 Contato
-
-📧 Email:
-davlexsantos@gmail.com
-
-💼 LinkedIn:
 https://linkedin.com/in/tidavidalex
 
-🌐 Portfólio:
+🌎 Portfólio
+
 https://sparedavidalex.github.io/portfolio
 
-🐙 GitHub:
-https://github.com/Sparedavidalex
+📧 Email
 
----
+davlexsantos@gmail.com
 
-⭐ Sempre aprendendo, sempre evoluindo.
-
-<!--
-**Sparedavidalex/Sparedavidalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Sempre aprendendo algo novo.
